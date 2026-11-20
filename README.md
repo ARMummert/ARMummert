@@ -56,4 +56,57 @@ My technical approach emphasizes Test Driven Development, Scalability, Clean Arc
 
 </div>
 
+## Featured Engineering Projects
+
+### Oversight ICS
+
+**Cognitive Reliability & Predictive Failover Agent 
+for Industrial Control Assets**
+
+An agent-based system designed to provide telemetry ingestion,
+stateful streaming analytics, anomaly detection, and governed
+decision-making for industrial control assets.
+
+#### Engineering Focus
+
+- Industrial control protocol integration
+- Event-driven architecture
+- Unified Namespace (UNS)
+- Stateful streaming analytics
+- Predictive failover
+- Zero-trust security architecture
+- Human-in-the-loop governance
+
+#### Technologies
+
+![Technologies](https://skillicons.dev/icons?i=python,postgres,docker,redis,linux)
+
+[![Documentation](https://img.shields.io/badge/Technical_Documentation-115E59?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://armummert.github.io/oversight-docs/)
+
+---
+
+### Arcane Archive
+
+**Magic: The Gathering Companion Application**
+
+A mobile-first application providing card search,
+personal collection management, deck building,
+and comprehensive multiplayer game tracking.
+
+#### Engineering Focus
+
+- Modular monolith backend architecture
+- Domain-driven design
+- RESTful API design
+- Cross-platform mobile development
+- Relational database design
+- Third-party API integration
+- Test-driven development
+
+#### Technologies
+
+![Technologies](https://skillicons.dev/icons?i=react,ts,fastapi,postgres,docker)
+
+[![Documentation](https://img.shields.io/badge/Technical_Documentation-115E59?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://armummert.github.io/arcane-archive-docs/)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=120&section=footer)

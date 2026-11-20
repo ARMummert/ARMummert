@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=250&section=header&text=Software%20Engineer&fontAlignY=30&fontSize=45&fontColor=FFFFFF&desc=Systems%20Design%20|%20Software%20Engineering%20|%20Industrial%20Systems%20Design&descSize=16&descAlignY=50)
-
 <p align="center">
-    <img src="./name.svg" width="100%" alt="Amy Mummert"/>
+    <img src="./name2-updated.svg" width="100%" alt="Amy Mummert"/>
 </p>
+
 <p align="center">
   <a href="https://armummert.github.io/am-portfolio"><img src="https://img.shields.io/badge/Portfolio-Amy's Portfolio-115E59?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>

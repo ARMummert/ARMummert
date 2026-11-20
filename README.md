@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=220&section=header&text=Software%20Engineer&fontSize=45&fontColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:66b2b2,100:115E59&height=220&section=header&text=Software%20Engineer&fontSize=45&fontColor=FFFFFF)
 
 # Amy Mummert
 

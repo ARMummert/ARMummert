@@ -1,6 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=220&section=header&text=Software%20Engineer&fontSize=45&fontColor=FFFFFF)
+
 # Amy Mummert
 
-### Software Engineering | Systems Design / Industrial Systems Design
+### Software Engineering | Systems Design | Industrial Systems Design
 
 ## About Me
 

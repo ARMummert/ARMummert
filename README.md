@@ -3,7 +3,7 @@
 <p align="center">
     <img src="./name.svg" width="100%" alt="Amy Mummert"/>
 </p>
-<p>
+<p align="center">
   <a href="https://armummert.github.io/am-portfolio"><img src="https://img.shields.io/badge/Portfolio-Amy's Portfolio-115E59?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -33,5 +33,27 @@ debugging applications, evaluating implementation decisions, and strengthening e
 My technical approach emphasizes Test Driven Development, Scalability, Clean Architecture, and CI/CD.
 
 ## Tech Stack 
+
+<div align="center">
+  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,nodejs,react,nextjs,html,css" alt="Languages" />
+</a>
+
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,express,mysql,postgres,rabbitmq,docker,git,github" alt="Backend" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=githubactions,linux,bash,cloudflare,heroku,npm,ps" alt="DevOps" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tailwind,figma" alt="Frontend" />
+</a>
+
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=120&section=footer)

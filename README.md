@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=290&section=header&text=Software%20Engineer&fontAlignY=40&fontSize=45&fontColor=FFFFFF&desc=Systems%20Design%20|%20Software%20Engineering%20|%20Industrial%20Systems%20Design&descSize=16&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=250&section=header&text=Software%20Engineer&fontAlignY=30&fontSize=45&fontColor=FFFFFF&desc=Systems%20Design%20|%20Software%20Engineering%20|%20Industrial%20Systems%20Design&descSize=16&descAlignY=50)
 
 # Amy Mummert
 

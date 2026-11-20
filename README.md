@@ -30,3 +30,5 @@ debugging applications, evaluating implementation decisions, and strengthening e
 My technical approach emphasizes Test Driven Development, Scalability, Clean Architecture, and CI/CD.
 
 ## Tech Stack 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:115E59&height=120&section=footer)

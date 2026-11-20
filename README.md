@@ -79,7 +79,12 @@ decision-making for industrial control assets.
 
 #### Technologies
 
-![Technologies](https://skillicons.dev/icons?i=python,postgres,docker,redis,linux)
+![Technologies](https://skillicons.dev/icons?i=python,postgres,docker,redis,linux,githubactions)
+<p>
+    <img src="https://cdn.simpleicons.org/natsdotio/34A574" height="48"/>
+    <img src="https://cdn.simpleicons.org/apacheflink/E6526F" height="48"/>
+    <img src="https://cdn.simpleicons.org/timescale/FDB515" height="48"/>
+</p>
 
 [![Documentation](https://img.shields.io/badge/Technical_Documentation-115E59?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://armummert.github.io/oversight-docs/)
 
